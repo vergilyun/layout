@@ -1,58 +1,86 @@
 area_id	x_coord	y_coord	width	height	mark	content
-汽车电子	100	100	10	25	A	belong
-OE出货	100	96	10	4	A	belong
-高温实验箱*4	110	123	11	2	C	remarkable
-OE-FQC检验	110	121	7	2	C	remarkable
-烤箱间	110	116	7	5	C	remarkable
-烤箱*4	121	123	10	2	C	remarkable
-烤箱岗位	117	121	9	2	C	remarkable
-半成品数据员	117	119	9	2	C	remarkable
-烤箱*9	117	118	9	1	C	remarkable
-烤箱*9	117	116	9	2	C	remarkable
-烤箱*5	126	116	5	7	C	remarkable
-风淋1	131	123	3	2	C	remarkable
-风淋2	134	123	3	2	C	remarkable
-制二治具间	131	116	6	7	C	remarkable
-新产品重工区	110	113	5	3	C	remarkable
-新产品试做区域	115	113	10	3	C	remarkable
-Null1	110	110	15	3	C	remarkable
-专项*5	125	114	12	2	C	remarkable
-走道2	100	80	1	16	A	belong
-走道3	109	80	1	16	A	belong
-OB-AA*4	125	110	12	4	C	remarkable
-走道1	110	80	5	30	C	remarkable
-WB目检	110	102	3	3	C	remarkable
-DA领班/领料	110	99	3	3	C	remarkable
-OE测高	101	95	8	1	A	belong
-OE-BI(FW/DSP)	101	94	8	1	A	belong
-OE-BI(目检)	101	93	8	1	A	belong
-BI间	101	90	8	3	A	belong
-OE-物料准备	101	88	8	2	A	belong
-OE-BI*5	101	87	8	1	A	belong
-TRX_BI*9	101	86	8	1	A	belong
-TRX_BI*9	101	85	8	1	A	belong
-TRX_BI*12	101	83	8	2	A	belong
-BI目检(半成品焊接)	101	81	8	2	A	belong
-COC-WB目检	101	80	8	1	A	belong
-OB-AA*8_AA目检*4	115	109	22	1	B	top
-OB-AA_Plasma清洗*2	115	108	22	1	B	top
-半成品AA_端面清洁*2	115	107	22	1	B	top
-半成品AA*11	115	106	22	1	B	top
-Plasma清洗*1_OE-WB*6_测高*1_测量*7	115	104	22	2	B	top
-OE-WB*2__OE-DA*7	115	101	22	3	B	top
-OE-WB*1__OE-AA目检*2_测高*1_Jumper组装	115	97	22	4	B	top
-OE-自动AA*12	115	96	22	1	B	top
-AA领班_OE测试(RL/EF/PRBS/V1/V2)*13	115	95	22	1	B	top
-测试*2_补胶*3_OE出货目检*8	115	94	22	1	B	top
-烤箱*12	115	92	15	2	B	top
-烤箱作业岗位*4	130	92	7	2	B	top
-OE半成品组装*16_端面清洁*2_卡枪*5	115	91	22	1	B	top
-半成品AA	115	90	22	1	B	top
-出货目检/封盖前目检*14	115	88	12	2	B	top
-TRX_FQC检验区*4	127	88	7	2	B	top
-出货领班	134	88	3	2	B	top
-TRX测试*12_出货目检*8	115	87	22	1	B	top
-TRX测试*4_封盖*2_收料区	115	86	22	1	B	top
-测漏*1_盖板组装*2_组装	115	83	22	3	B	top
-平行封焊*1_气密检查*1_COC-WB*3_BI-COC识别绑定*2	115	81	22	2	B	top
-COC-WB目检*5_Plasma清洗*3_Bi上下料*6	115	80	22	1	B	top
+R-DA	100	100	10	2	RADAR 	Optical Layout
+R-RCTZ	100	86	10	4	RADAR 	Optical Layout
+R-AA1	100	84	10	2	RADAR 	Optical Layout
+Null-1	100	77	10	7	RADAR 	Optical Layout
+R-AA2 	100	74	10	3	RADAR 	Optical Layout
+R-AA3	100	72	10	2	RADAR 	Optical Layout
+走道1	100	54	1	20	NULL	Optical Layout
+B-RCTZ	101	70	8	3	BI	Optical Layout
+B-MJ	101	67	8	3	BI	Optical Layout
+B-JXH	101	64	8	4	BI	Optical Layout
+B-SXL	101	60	8	2	BI	Optical Layout
+B-BI1	101	58	8	2	BI	Optical Layout
+B-BI2	101	56	8	2	BI	Optical Layout
+B-ZZ	101	54	8	4	BI	Optical Layout
+走道2	109	54	1	20	BI	Optical Layout
+Null-2	110	97	3	5	Own	Optical Layout
+O-KX1	114	100	10	2	Own	Optical Layout
+O-SJY	114	97	5	3	Own	Optical Layout
+O-KX2	119	97	5	3	Own	Optical Layout
+Null-3	110	96	14	1	Own	Optical Layout
+Null-4	124	96	6	6	Own	Optical Layout
+Null-5	110	92	3	4	NPRO	Optical Layout
+N-ZZ	113	88	16	4	NPRO	Optical Layout
+N-AA1	113	84	16	4	NPRO	Optical Layout
+N-AA2	113	82	16	2	NPRO	Optical Layout
+N-DA1	113	79	16	3	NPRO	Optical Layout
+N-JXH	113	74	16	5	NPRO	Optical Layout
+N-DA2	113	69	16	5	NPRO	Optical Layout
+N-RCTZ	113	66	16	3	NPRO	Optical Layout
+Null-6	110	54	3	38	通道	Optical Layout
+1O-ZZ1	113	63	16	3	Owen	Optical Layout
+1O-ZZ2	113	61	16	2	Owen	Optical Layout
+1O-AA	113	59	16	2	Owen	Optical Layout
+1O-RCTZ	113	56	16	3	Owen	Optical Layout
+1O-ECYCL	113	54	16	2	Owen	Optical Layout
+Null-7	129	70	1	40	通道	Optical Layout
+Null-8	130	82	1	28	通道	Optical Layout
+T-TCT1	131	108	17	2	TCT	Optical Layout
+T-TCT2	131	104	7	4	TCT	Optical Layout
+T-SXL	138	105.5	10	2.5	TCT	Optical Layout
+T-WLZB	138	104	10	1.5	TCT	Optical Layout
+Null-9	131	104	7	2	通道	Optical Layout
+A-MJ	131	102	17	2	Assembly	Optical Layout
+A-CS1	131	99	17	3	Assembly	Optical Layout
+A-ZZ1	131	96	17	3	Assembly	Optical Layout
+A-AA1	131	92	17	4	Assembly	Optical Layout
+A-AA2	131	87	17	5	Assembly	Optical Layout
+A-CS2	131	85	17	2	Assembly	Optical Layout
+A-ZZ2	131	82	17	3	Assembly	Optical Layout
+2O-WLZB	130	80	7	2	Office	Optical Layout
+ 2O-AA	130	78	7	2	Office	Optical Layout
+ 2O-CS1	130	76	7	2	Office	Optical Layout
+2O-ZZ	130	72	7	4	Office	Optical Layout
+2O-CS2	130	70	7	2	Office	Optical Layout
+F-WLZB	130	68	7	2	FW	Optical Layout
+F-FW1	130	65	7	3	FW	Optical Layout
+F-FW2	130	61	7	4	FW	Optical Layout
+Null-10	137	61	3	21	FW	Optical Layout
+1N-WB	140	80	8	2	Nshelf	Optical Layout
+1N-ZZ	140	78	8	2	Nshelf	Optical Layout
+1N-ECYCL	140	76	8	2	Nshelf	Optical Layout
+1N-COC BP	140	72	4	4	Nshelf	Optical Layout
+1N-MJ1	145	72	3	4	Nshelf	Optical Layout
+1N-KX	140	69	4	3	Nshelf	Optical Layout
+1N-MJ2	140	67	4	2	Nshelf	Optical Layout
+1N-RBHJ	145	67	3	5	Nshelf	Optical Layout
+Null-11	144	67	1	9	Nshelf	Optical Layout
+1N-WLZB	140	64	8	3	Nshelf	Optical Layout
+1N-JGFB	140	62	5	2	Nshelf	Optical Layout
+1N-MJ3	140	60	5	2	Nshelf	Optical Layout
+Null-12	145	60	3	4	通道	Optical Layout
+Null-13	148	60	1	52	通道	Optical Layout
+L-MJ	149	107	5	3	Laser	Optical Layout
+L-AA	149	102	5	5	Laser	Optical Layout
+L-JGDB	154	107	3	3	Laser	Optical Layout
+L-CSQX	155	102	2	5	Laser	Optical Layout
+Null-14	154	102	1	8	Laser	Optical Layout
+1A-AA	149	80	8	22	AA	Optical Layout
+D-WB	149	77	3	3	DA	Optical Layout
+D-ECYCL1	149	73	4	4	DA	Optical Layout
+D-DA	149	69	4	4	DA	Optical Layout
+D-ERYCL2	149	66	3	3	DA	Optical Layout
+D-MJ	149	64	2	2	DA	Optical Layout
+D-SXL	149	63	2	1	DA	Optical Layout
+D-ZZ	149	58	4	5	DA	Optical Layout
