@@ -49,8 +49,8 @@ A-AA2	131	79	17	5	Assembly	optical
 A-CS2	131	77	17	2	Assembly	optical
 A-ZZ2	131	74	17	3	Assembly	optical
 2O-WLZB	130	72	7	2	Office	optical
- 2O-AA	130	70	7	2	Office	optical
- 2O-CS1	130	68	7	2	Office	optical
+2O-AA	130	70	7	2	Office	optical
+2O-CS1	130	68	7	2	Office	optical
 2O-ZZ	130	64	7	4	Office	optical
 2O-CS2	130	62	7	2	Office	optical
 F-WLZB	130	60	7	2	FW	optical
