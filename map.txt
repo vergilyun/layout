@@ -1,10 +1,10 @@
 area_id	x_coord	y_coord	width	height	mark	content
-R-DA	100	100	10	2	RADAR 	optical
-R-RCTZ	100	96	10	4	RADAR 	optical
-R-AA1	100	94	10	2	RADAR 	optical
-Null-1	100	88	10	6	RADAR 	optical
-R-AA2	100	84	10	4	RADAR 	optical
-R-AA3	100	82	10	2	RADAR 	optical
+R-DA	100	100	10	2	RADAR	optical
+R-RCTZ	100	96	10	4	RADAR	optical
+R-AA1	100	94	10	2	RADAR	optical
+Null-1	100	88	10	6	RADAR	optical
+R-AA2	100	84	10	4	RADAR	optical
+R-AA3	100	82	10	2	RADAR	optical
 Aisle-1	100	62	1	20	Aisle	optical
 B-RCTZ	101	79	8	3	BI	optical
 B-MJ	101	76	8	3	BI	optical
