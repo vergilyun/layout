@@ -3,9 +3,9 @@ R-DA	100	100	10	2	RADAR 	optical
 R-RCTZ	100	96	10	4	RADAR 	optical
 R-AA1	100	94	10	2	RADAR 	optical
 Null-1	100	88	10	6	RADAR 	optical
-R-AA2 	100	84	10	4	RADAR 	optical
+R-AA2	100	84	10	4	RADAR 	optical
 R-AA3	100	82	10	2	RADAR 	optical
-走道1	100	62	1	20	NULL	optical
+Aisle-1	100	62	1	20	Aisle	optical
 B-RCTZ	101	79	8	3	BI	optical
 B-MJ	101	76	8	3	BI	optical
 B-JXH	101	72	8	4	BI	optical
@@ -13,7 +13,7 @@ B-SXL	101	70	8	2	BI	optical
 B-BI1	101	68	8	2	BI	optical
 B-BI2	101	66	8	2	BI	optical
 B-ZZ	101	62	8	4	BI	optical
-走道2	109	62	1	20	BI	optical
+Aisle-2	109	62	1	20	BI	optical
 Null-2	110	97	3	5	Own	optical
 O-KX1	113	100	11	2	Own	optical
 O-SJY	113	97	6	3	Own	optical
