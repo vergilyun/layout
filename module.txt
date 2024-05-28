@@ -73,5 +73,3 @@ SM_TEST1	142	-118	20	8	单模测试区	module
 SM_TEST2	142	-126	20	8	单模测试区	module
 SM_TEST3	118	-158	43	30	单模测试区	module
 SM_TEST4	118	-168	43	10	单模测试区	module
-Aisle-3	80	-168	20	280	Aisle	module
-Aisle-4	181	-168	20	280	Aisle	module
