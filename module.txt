@@ -3,7 +3,6 @@ PD3_3	100	-20	8	30	光学车间	module
 ATE	108	-20	5	30	自动化设备调试	module
 PR	100	-75	8	40	包材间	module
 outship	100	-155	8	80	包装出货	module
-Aisle	108	-155	10	120	Aisle	module
 PD2-3	100	-240	8	70	光学车间	module
 SM_MR	110	-200	5	28	单模物料间	module
 Null	110	-240	5	40	闲置	module
@@ -37,7 +36,6 @@ SM_OFFICE	118	-172	20	25	单模办公区	module
 MM_MP	118	-182	17	10	多模物料准确区	module
 SM_MP	118	-195	20	10	单模物料准备区	module
 SM_BI1	118	-246	20	50	单模B/I区   	module
-Aisle	138	-246	4	198	Aisle	module
 SM_TEST7	142	-68	20	18	单模测试区	module
 SM_TEST6	142	-78	20	6	单模测试区	module
 PD2_2	142	-84	20	6	光学线体	module
@@ -49,7 +47,7 @@ MM_OVEN2	157	-116	5	6	AOC烘烤 	module
 MM_OVEN1	142	-122	7	5	AOC烘烤(烤台)	module
 MM_ASSY4	149	-122	13	5	多模AOC组装线体  	module
 FQC	142	-127	20	5	成品检验作业区	module
-MM_PACK	142	-131	10	4	多模前包作业区	module
+MM_PACK1	142	-131	10	4	多模前包作业区	module
 SM_PACK	142	-142	10	11	单模前包作业区	module
 PD1_BI	152	-139	5	12	光学BI	module
 SM_BI2	152	-142	5	3	单模BI	module
