@@ -24,7 +24,7 @@ PD2_1	118	-84	20	12	光学线体	module
 PD1_1	118	-99	20	12	光学线体	module
 MM_ASSY5	118	-108	14	8	多模AOC组装线体  	module
 MM_QT	132	-108	6	8	多模Quick_Test  	module
-MM_PACK	118	-116	20	8	多模前包作业区	module
+MM_PACK	118	-116	12	8	多模前包作业区	module
 PD3_1	118	-127	14	10	光学线体	module
 LP1	132	-122	6	5	标签打印区域	module
 FQC_Offline	132	-127	6	5	FQC_Offline_Test/二次元	module
@@ -49,10 +49,10 @@ MM_OVEN2	157	-116	5	6	AOC烘烤 	module
 MM_OVEN1	142	-122	7	5	AOC烘烤(烤台)	module
 MM_ASSY4	149	-122	13	5	多模AOC组装线体  	module
 FQC	142	-127	20	5	成品检验作业区	module
-MM_PACK	142	-131	15	4	多模前包作业区	module
-SM_PACK	142	-142	15	11	单模前包作业区	module
-PD1_BI	157	-139	5	12	光学BI	module
-SM_BI2	157	-142	5	3	单模BI	module
+MM_PACK	142	-131	10	4	多模前包作业区	module
+SM_PACK	142	-142	10	11	单模前包作业区	module
+PD1_BI	152	-139	5	12	光学BI	module
+SM_BI2	152	-142	5	3	单模BI	module
 WH	142	-156	8	12	物料仓库	module
 ER	150	-156	12	12	车间设备间	module
 MM_ASSY1	142	-163	16	6	多模组装线体	module
