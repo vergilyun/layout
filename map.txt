@@ -5,7 +5,7 @@ R-AA1	100	94	10	2	RADAR	optical
 Null-1	100	88	10	6	RADAR	optical
 R-AA2	100	84	10	4	RADAR	optical
 R-AA3	100	82	10	2	RADAR	optical
-Aisle-1	100	62	1	20	Aisle	optical
+	100	62	1	20	Aisle	optical
 B-RCTZ	101	79	8	3	BI	optical
 B-MJ	101	76	8	3	BI	optical
 B-JXH	101	72	8	4	BI	optical
@@ -16,7 +16,8 @@ B-ZZ	101	62	8	4	BI	optical
 Aisle-2	109	62	1	20	BI	optical
 Null-2	110	97	3	5	Own	optical
 O-KX1	113	100	11	2	Own	optical
-O-SJY	113	97	6	3	Own	optical
+O-FQC	113	97	3	3	Own	optical
+O-SJY	116	97	3	3	Own	optical
 O-KX2	119	97	5	3	Own	optical
 Null-3	110	96	14	1	Own	optical
 Null-4	124	96	6	6	Own	optical
@@ -80,7 +81,7 @@ Null-14	154	94	1	5	Laser	optical
 D-WB	149	71	8	3	DA	optical
 D-ECYCL1	149	67	8	4	DA	optical
 D-DA	149	63	8	4	DA	optical
-D-ERYCL2	149	60	8	3	DA	optical
+D-ECYCL2	149	60	8	3	DA	optical
 D-MJ	149	58	8	2	DA	optical
 D-SXL	149	56	8	2	DA	optical
 D-ZZ	149	52	8	4	DA	optical
