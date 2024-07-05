@@ -1,11 +1,11 @@
 area_id	x_coord	y_coord	width	height	mark	content
-PD1	100	100	5	30	光学线体	module
+PD1-1	100	100	5	30	光学线体	module
 TEST5	100	60	5	40	测试区5	module
 TEST6	105	100	10	30	B/I&TCT&link测试区	module
 TEST4	105	60	10	40	测试区4	module
 TEST3	117	60	8	70	测试区3	module
 PD2	125	60	4	70	光学线体	module
-PD1	129	60	3	70	光学线体	module
+PD1-2	129	60	3	70	光学线体	module
 MM_ASSY_AOC	130	100	8	30	多模AOC组装	module
 FQC	138	100	3	30	成品检验区	module
 PD1_BI	143	122	11	8	光学BI	module
