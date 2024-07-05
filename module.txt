@@ -1,4 +1,4 @@
-area_id	x_coord	y_coord	width	height	mark	content
+area_id	y_coord	x_coord	height	width	mark	content
 PD1-1	100	100	5	30	光学线体	module
 TEST5	100	60	5	40	测试区5	module
 TEST6	105	100	10	30	B/I&TCT&link测试区	module
