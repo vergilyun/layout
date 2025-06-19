@@ -1,55 +1,177 @@
-制程	工艺段	工序
-TX COC	PCBA信息录入	PCBA信息录入
-TX COC	FW	FW Loading
-TX COC	FW	FW loading(DSP)
-TX COC	ASSY来料目检	ASSY来料目检
-TX COC	DA来料目检	DA来料目检1
-TX COC	DA	DA贴装1
-TX COC	DA	DA贴装2
-TX COC	DA	DA贴装3
-TX COC	DA	DA贴装4
-TX COC	DA	DA贴装5
-TX COC	DA	DA贴装测量2
-TX COC	DA	DA贴装测量3
-TX COC	DA	DA贴装测量4
-TX COC	DA	DA贴装测量5
-TX COC	DA目检	DA贴装目检1
-TX COC	DA目检	DA贴装目检2
-TX COC	DA目检	DA贴装目检3
-TX COC	DA目检	DA贴装目检4
-TX COC	DA目检	DA完成品目检
-TX COC	COC贴装	COC贴装
-TX COC	COC贴装	COC to CB SN识别绑定
-TX COC	COC贴装	COC尺寸测量
-TX COC	COC贴装目检	DA COC目检
-TX COC	WB	TX_CB WB目检
-TX COC	WB	RX_WB目检
-TX COC	WB	WB高倍目检1
-TX COC	WB	TRX_WB目检
-TX COC	WB	WB后高倍目检
-TX COC	WB	TX_WB目检
-TX COC	WB	多模 WB目检
-TX COC	隔离器	隔离器组装目检
-TX COC	隔离器	隔离器组装
-TX COC	隔离器	隔离器贴装目检
-TX COC	封盖目检	盖板组装前目检
-TX COC	封盖目检	封盖前目检
-TX COC	封盖目检	封盖后目检
-TX COC	盖板组装	金属盖板组装
-TX COC	盖板组装	CB TX封盖
-TX COC	盖板组装	CB RX封盖
-TX COC	激光分板	激光分板
-TX COC	激光分板目检	激光分板目检
-TX COC	PCBA to housing 组装	PCBA to housing 组装
-TX COC	Field lens	Field Lens点胶
-TX COC	Field lens	Field Lens红外测量
-TX COC	Field lens	Field Lens贴装
-TX COC	Field lens	Field Lens红外目检
-TX COC	Field lens目检	Field Lens红外目检
-TX COC	Host Link 测试	Host Link 测试
-TX COC	DC 测试	DC 测试
-TX COC	CB 测试	CB 测试
-TX COC	CB 测试	CB 测试(手动)
-TX COC	出货绑批	出货确认绑批(SHIPCHK)
-TX COC	出货绑批	出货绑批
-TX COC	出货入库	出货入库
+制程段	关键工序	工序
+TX COC	芯片分取	芯片分取
+TX COC	芯片分取	芯片分取后目检
+TX COC	RF SM分取	RF SM分取后目检
+TX COC	激光打标目检	打标后目检
+TX COC	Gold-Tin	Chip to LD Submount目检
+TX COC	Gold-Tin	Gold-Tin目检 
+TX COC	Gold-Tin	GT来料目检1 1189#二楼
+TX COC	Gold-Tin	GT来料目检1
+TX COC	PD TO TIA	PD 尺寸测量
+TX COC	PD TO TIA	PD TO TIA尺寸测量
+TX COC	PD TO TIA	PD TO TIA点胶
+TX COC	TX_WB目检	TX_WB目检
+TX COC	SN识别	SN识别
+TX COC	Burn In	Burn in 上料
+TX COC	Burn In	COC COC Burn In
+TX COC	Burn In	COC Burn In
+TX COC	Burn In	BI写工单
+TX COC	COC 成品目检	COC 成品目检
+TX COC	COC 成品目检	出货入库
+TRX CB	PCBA信息录入	PCBA信息录入
+TRX CB	FW	FW Loading
+TRX CB	FW	FW loading(DSP)
+TRX CB	ASSY来料目检	ASSY来料目检
+TRX CB	DA来料目检	DA来料目检1
+TRX CB	DA	DA贴装1
+TRX CB	DA	DA贴装2
+TRX CB	DA	DA贴装3
+TRX CB	DA	DA贴装4
+TRX CB	DA	DA贴装5
+TRX CB	DA	DA贴装测量2
+TRX CB	DA	DA贴装测量3
+TRX CB	DA	DA贴装测量4
+TRX CB	DA	DA贴装测量5
+TRX CB	DA目检	DA贴装目检1
+TRX CB	DA目检	DA贴装目检2
+TRX CB	DA目检	DA贴装目检3
+TRX CB	DA目检	DA贴装目检4
+TRX CB	DA目检	DA完成品目检
+TRX CB	COC贴装	COC贴装
+TRX CB	COC贴装	COC to CB SN识别绑定
+TRX CB	COC贴装	COC尺寸测量
+TRX CB	COC贴装目检	DA COC目检
+TRX CB	WB	TX_CB WB目检
+TRX CB	WB	RX_WB目检
+TRX CB	WB	WB高倍目检1
+TRX CB	WB	TRX_WB目检
+TRX CB	WB	WB后高倍目检
+TRX CB	WB	TX_WB目检
+TRX CB	WB	多模 WB目检
+TRX CB	隔离器	隔离器组装目检
+TRX CB	隔离器	隔离器组装
+TRX CB	隔离器	隔离器贴装目检
+TRX CB	封盖目检	盖板组装前目检
+TRX CB	封盖目检	封盖前目检
+TRX CB	封盖目检	封盖后目检
+TRX CB	盖板组装	金属盖板组装
+TRX CB	盖板组装	CB TX封盖
+TRX CB	盖板组装	CB RX封盖
+TRX CB	激光分板	激光分板
+TRX CB	激光分板目检	激光分板目检
+TRX CB	PCBA to housing 组装	PCBA to housing 组装
+TRX CB	Field lens	Field Lens点胶
+TRX CB	Field lens	Field Lens红外测量
+TRX CB	Field lens	Field Lens贴装
+TRX CB	Field lens	Field Lens红外目检
+TRX CB	Field lens目检	Field Lens红外目检
+TRX CB	Host Link 测试	Host Link 测试
+TRX CB	DC 测试	DC 测试
+TRX CB	CB 测试	CB 测试
+TRX CB	CB 测试	CB 测试(手动)
+TRX CB	出货绑批	出货确认绑批(SHIPCHK)
+TRX CB	出货绑批	出货绑批
+TRX CB	出货入库	出货入库
+半成品	贴装	BCP_磁块贴装
+半成品	BCP_烘烤后目检	BCP_烘烤后目检
+半成品	耦合目检	BCP_耦合前目检
+半成品	耦合目检	BCP_耦合后目检
+半成品	耦合	BCP_LENS耦合
+半成品	测试	BCP_光斑测试
+半成品	BCP_测试目检	BCP_测试目检
+半成品	端面清洁	端面清洁1
+半成品	端面清洁	BCP_端面清洁2
+半成品	端面清洁	BCP_端面清洁4
+半成品	目检	BCP_ 半成品目检1
+半成品	目检	BCP_ 半成品目检2
+半成品	目检	BCP_ 半成品目检3
+半成品	目检	BCP_ 半成品目检4
+半成品	目检	BCP_半成品出货目检
+半成品	外观全检	BCP_外观全检
+OB	CB TO OB	CB TO OB_RX预耦
+OB	耦合	TX C- Lens耦合
+OB	耦合	TX LD Lens OUT耦合
+OB	耦合	TX/RX FA耦合
+OB	耦合	TX LD Lens耦合
+OB	耦合	LENS耦合
+OB	耦合	RX AWG耦合
+OB	耦合	RX FA耦合
+OB	耦合	RX Lens耦合
+OB	耦合	TXC- Lens耦合
+OB	耦合	RX 耦合
+OB	耦合	TX Lens耦合
+OB	耦合	RX FA预耦
+OB	耦合目检	TRX FA 目检
+OB	耦合目检	TX耦合后目检
+OB	耦合目检	RX耦合后目检
+OB	耦合目检	OUT LENS 耦合后目检
+OB	AA返修	RX ND AA
+OB	AA返修	STOP AA
+OB	AA返修目检	STOP AA后目检
+OB	AA返修目检	AA目检
+OB	封盖目检	封盖前目检
+OB	封盖目检	封盖后目检
+OB	封盖	BOSA TX封盖
+OB	封盖	BOSA 封盖
+OB	封盖	BOSA RX封盖
+OB	封盖	BOSA 盖板补胶
+OB	测试	TX V1 测试
+OB	测试	TX V1 测试(高温)
+OB	测试	TRX V2 测试
+OB	测试	V2 测试
+OB	测试	TX V2 测试
+OB	测试	TX V2 测试(高温)
+OB	测试	RX V1 测试
+OB	测试	RX V2 测试
+OB	测试	TRX V1 测试
+OB	测试	TRX V1 测试(高温)
+OB	测试	TRX V2 测试(高温)
+OB	测试	TX V3 测试
+OB	测试	TX V3 测试(高温)
+OB	测试	TX V4 测试
+OB	测试	TRX V3 测试(高温)
+OB	测试	阻抗 测试
+OB	测试	串扰 测试
+OB	测试	光谱 测试
+OB	测试	TX RL 测试
+OB	TEST	MPD_TEST_1
+OB	TEST	MPD_TEST_2
+OB	端面清洁	端面清洁(出货)
+OB	端面清洁	端面清洁(TX V1前)
+OB	端面清洁	BCP_端面清洁2
+OB	端面清洁	BCP_端面清洁4
+OB	端面清洁	端面清洁(V2前)
+OB	端面清洁	端面清洁(RX V1前)
+OB	端面清洁	端面清洁(V1前)
+OB	端面清洁	端面清洁(RL前)
+OB	端面清洁	端面清洁(RX耦合前)
+OB	端面清洁	端面清洁(V3前)
+OB	端面清洁	端面清洁3
+OB	端面清洁	端面清洁2
+OB	端面清洁	端面清洁1
+OB	端面清洁	端面清洁(V4前)
+OB	端面清洁	端面清洁(RX V2前)
+OB	端面清洁	端面清洁(TX V2前)
+OB	端面清洁	端面清洁(TX耦合前)
+OB	外观全检	外观全检(封盖前)
+OB	外观全检	外观全检(出货)
+OB	外观全检	BCP_外观全检
+OB	外观全检	外观全检(TX耦合前)
+OB	外观全检	外观全检(TRX FA耦合前)
+OB	外观全检	外观全检
+OB	外观全检	外观全检(RX耦合前)
+OB	出货绑批	出货确认绑批(SHIPCHK)
+OB	出货绑批	出货绑批
+OE	DA	DA贴装1
+OE	DA完成品目检	DA完成品目检
+OE	精度测量	精度测量
+OE	WB目检	多模_WB目检
+OE	耦合	LENS耦合
+OE	FW	FW loading(DSP)
+OE	测试	LIV测试1
+OE	测试	多模_LIV1测试
+OE	测试	V1 测试
+OE	目检	目检1
+OE	端面清洁	端面清洁(出货)
+OE	外观全检	外观全检(出货)
+OE	出货确认绑批	出货确认绑批(SHIPCHK)
