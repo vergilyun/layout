@@ -1,0 +1,55 @@
+制程	工艺段	工序
+TX COC	PCBA信息录入	PCBA信息录入
+TX COC	FW	FW Loading
+TX COC	FW	FW loading(DSP)
+TX COC	ASSY来料目检	ASSY来料目检
+TX COC	DA来料目检	DA来料目检1
+TX COC	DA	DA贴装1
+TX COC	DA	DA贴装2
+TX COC	DA	DA贴装3
+TX COC	DA	DA贴装4
+TX COC	DA	DA贴装5
+TX COC	DA	DA贴装测量2
+TX COC	DA	DA贴装测量3
+TX COC	DA	DA贴装测量4
+TX COC	DA	DA贴装测量5
+TX COC	DA目检	DA贴装目检1
+TX COC	DA目检	DA贴装目检2
+TX COC	DA目检	DA贴装目检3
+TX COC	DA目检	DA贴装目检4
+TX COC	DA目检	DA完成品目检
+TX COC	COC贴装	COC贴装
+TX COC	COC贴装	COC to CB SN识别绑定
+TX COC	COC贴装	COC尺寸测量
+TX COC	COC贴装目检	DA COC目检
+TX COC	WB	TX_CB WB目检
+TX COC	WB	RX_WB目检
+TX COC	WB	WB高倍目检1
+TX COC	WB	TRX_WB目检
+TX COC	WB	WB后高倍目检
+TX COC	WB	TX_WB目检
+TX COC	WB	多模 WB目检
+TX COC	隔离器	隔离器组装目检
+TX COC	隔离器	隔离器组装
+TX COC	隔离器	隔离器贴装目检
+TX COC	封盖目检	盖板组装前目检
+TX COC	封盖目检	封盖前目检
+TX COC	封盖目检	封盖后目检
+TX COC	盖板组装	金属盖板组装
+TX COC	盖板组装	CB TX封盖
+TX COC	盖板组装	CB RX封盖
+TX COC	激光分板	激光分板
+TX COC	激光分板目检	激光分板目检
+TX COC	PCBA to housing 组装	PCBA to housing 组装
+TX COC	Field lens	Field Lens点胶
+TX COC	Field lens	Field Lens红外测量
+TX COC	Field lens	Field Lens贴装
+TX COC	Field lens	Field Lens红外目检
+TX COC	Field lens目检	Field Lens红外目检
+TX COC	Host Link 测试	Host Link 测试
+TX COC	DC 测试	DC 测试
+TX COC	CB 测试	CB 测试
+TX COC	CB 测试	CB 测试(手动)
+TX COC	出货绑批	出货确认绑批(SHIPCHK)
+TX COC	出货绑批	出货绑批
+TX COC	出货入库	出货入库
